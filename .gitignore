@@ -1,0 +1,13 @@
+# Local/server secrets
+.env
+.env.*
+config.local.php
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PHP/runtime
+*.log
